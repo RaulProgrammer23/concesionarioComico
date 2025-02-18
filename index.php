@@ -32,9 +32,8 @@ if (isset($_COOKIE['cookie'])) {
     <input type="submit" value="Enviar">
 </form>
 
-<p>El usuario es "user" , la password "user", créame, no pruebe con otra,
-    es mejor llevarse bien con las solicitudes de http , no queremos 
-    colapsos innecesarios
+<p>El usuario es "user" , la password "user", no pruebe con otra,
+    es mejor llevarse bien con las solicitudes de http 
 </p>
 
 <?php require_once "../concesionarioComico/includes/pie.php"; ?>
