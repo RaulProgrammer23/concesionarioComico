@@ -1,5 +1,4 @@
 <?php
-// Archivo: video_iframes.php
 // Este archivo almacena los distintos iframes según las matrículas de los coches
 
 return [
